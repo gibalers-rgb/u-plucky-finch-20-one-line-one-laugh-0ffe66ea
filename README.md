@@ -1,8 +1,8 @@
 # One Line, One Laugh
 
-[![make.fun competition](https://make.fun/badge/competition/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
-[![make.fun rank](https://make.fun/badge/rank/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
-[![make.fun reward](https://make.fun/badge/reward/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![Competition](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![Rank](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/gibalers-rgb/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![Reward](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/gibalers-rgb/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
 
 A program that writes one funny line of text (200 characters or fewer) to
 `/output/entry.txt`, for the make.fun bounty
